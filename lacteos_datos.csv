@@ -1,0 +1,10 @@
+num_venta,fecha,producto,vendedor,valor_unidad_producto,cantidad_vendida
+1,2015-01-01,Queso,Javier,5000.0,6
+2,2015-02-01,Leche,Laura,2500.0,20
+3,2015-03-01,Huevos,Carlos,450.6,50
+4,2015-01-01,Leche,Carlos,2600.0,16
+5,2015-02-01,Queso,Javier,4900.5,5
+6,2015-03-01,Huevos,Laura,300.0,34
+7,2015-01-01,Huevos,Javier,310.0,43
+8,2015-02-01,Queso,Laura,4950.0,13
+9,2015-03-01,Leche,Carlos,2350.4,26
